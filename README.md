@@ -51,4 +51,4 @@ The study is divided into three main phases:
 
 This SVD-based approach provides an effective pipeline for movement detection, background separation, and direction classification in surveillance video. The method is robust and can be extended to RGB images for improved performance.
 
-For further details, refer to the notebook `HW_3_Fassio.ipynb` for code and step-by-step explanations.
+For further details, refer to the notebook `code.ipynb` for code and step-by-step explanations.
